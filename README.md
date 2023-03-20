@@ -8,7 +8,7 @@ A modding tool for .PZZ packages in [**GioGio's Bizarre Adventure (PS2)**](https
 * **.SDT** - Cast Shadow Mesh Data
 * **.HIT** - Player Collision
 * **.HITS** - Stage Collision
-
+* **.TXT** - Dialouge Text Script
 # Settings
 ## **Truncate Text Files**
 Truncates null bytes on extraction for dialogue scripts for 3D (Demo Type) and 2D (Book Type) cutscenes.
